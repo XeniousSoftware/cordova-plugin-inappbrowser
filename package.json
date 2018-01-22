@@ -1,10 +1,10 @@
 {
   "name": "xenious-cordova-plugin-inappbrowser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-inappbrowser",
+    "id": "xenious-cordova-plugin-inappbrowser",
     "platforms": [
       "android",
       "browser",
